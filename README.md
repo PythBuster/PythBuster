@@ -31,10 +31,14 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythbuster&show_icons=true&locale=en&layout=compact" alt="pythbuster" />
 </p>
 
+<br><br>
+
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pythbuster&show_icons=true&locale=en" alt="pythbuster" />
 </p>
+
+<br><br>
 
 
 <p>
