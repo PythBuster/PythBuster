@@ -19,7 +19,8 @@ I am python enthusiast, dev streamer on twitch.tv and professional python develo
 
 ### Badges
 
-<b>My GitHub Stats (new and old Github profile)</b>
-
+<b>My new profiles GitHub Stats (Nthis one)</b>
 <a href="http://www.github.com/pythbuster"><img src="https://github-readme-stats.vercel.app/api?username=pythbuster&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pythbuster's GitHub stats" /></a>
+
+<b>My (old profiles) GitHub Stats</b>
 <a href="http://www.github.com/tutorexilius"><img src="https://github-readme-stats.vercel.app/api?username=tutorexilius&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tutorexilius's GitHub stats" /></a>
