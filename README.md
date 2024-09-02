@@ -24,6 +24,8 @@
 <p><a href="https://ko-fi.com/https://ko-fi.com/pythbuster"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/pythbuster" /></a>
 </p>
 
+<h3 align="left">Stats:</h3>
+
 <br><br>
 
 <p>
