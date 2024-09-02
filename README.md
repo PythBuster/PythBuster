@@ -12,10 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pythbuster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pythbuster" height="30" width="40" /></a>
-<a href="https://fb.com/pythbuster.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pythbuster.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pythbuster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pythbuster" height="30" width="40" /></a>
-<a href="https://discord.gg/97dZ2Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="97dZ2Kr" height="30" width="40" /></a>
+  <a href="https://discord.gg/97dZ2Kr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="97dZ2Kr" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@pythbuster" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pythbuster" height="30" width="40" /></a>
+    <a href="https://www.twitch.tv/pythbuster" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="pythbuster" height="30" width="40" /></a>
+<a href="https://twitter.com/pythbuster" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pythbuster" height="30" width="40" /></a>
+<a href="https://fb.com/pythbuster.official" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pythbuster.official" height="30" width="40" /></a>
 </p>
 
 
